@@ -1,0 +1,1 @@
+class NetworkFailure extends Error {}
